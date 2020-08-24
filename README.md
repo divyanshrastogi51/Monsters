@@ -1,5 +1,5 @@
-# robofriends
-Tutorial for udemy course - React
+# Mosters_In_Us
+Made with React
 To run the project:
 
 1. Clone this repo
