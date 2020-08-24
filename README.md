@@ -1,5 +1,8 @@
 # Mosters_In_Us
-Made with React
+:star: Made with React 
+
+See [Live](https://monsters-in-us.netlify.app/)
+
 To run the project:
 
 1. Clone this repo
